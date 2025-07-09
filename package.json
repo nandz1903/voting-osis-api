@@ -1,0 +1,11 @@
+{
+  "name": "voting-osis-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bun index.ts"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.0.0",
+    "elysia": "^0.7.7"
+  }
+}
